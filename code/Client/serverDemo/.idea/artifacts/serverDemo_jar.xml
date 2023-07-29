@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="serverDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serverDemo_jar</output-path>
+    <root id="archive" name="serverDemo.jar">
+      <element id="module-output" name="serverDemo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

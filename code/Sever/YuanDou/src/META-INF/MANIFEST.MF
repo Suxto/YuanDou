@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: GameRun.Main
+Charset: UTF-8
+
+

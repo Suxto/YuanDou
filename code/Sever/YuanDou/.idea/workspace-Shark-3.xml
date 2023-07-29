@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="YuanDou:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d6124eb-2f64-4aca-a65d-2088fa24e755" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PXn99eAacRYaSWhd9MSsrRIsnj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jiaba/OneDrive/YuanDou&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.18652344&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22938389&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\suxto\OneDrive\YuanDou\src\Utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\筱\OneDrive\YuanDou\src\Image" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameRun.Main" />
+      <module name="YuanDou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GameRun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApplication" />
+      <module name="YuanDou" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TablePickerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TablePickerTester" />
+      <module name="YuanDou" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scenes.Tex" />
+      <module name="YuanDou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Scenes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.UserService" />
+      <module name="YuanDou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.UserService" />
+      <item itemvalue="Application.TablePickerTester" />
+      <item itemvalue="Application.Tex" />
+      <item itemvalue="Application.MyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Tex" />
+        <item itemvalue="Application.MyApplication" />
+        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.TablePickerTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d6124eb-2f64-4aca-a65d-2088fa24e755" name="Changes" comment="" />
+      <created>1683612140885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683612140885</updated>
+      <workItem from="1683612142393" duration="2069000" />
+      <workItem from="1683615212976" duration="21000" />
+      <workItem from="1683615618869" duration="4000" />
+      <workItem from="1683615811747" duration="6499000" />
+      <workItem from="1683623687545" duration="1582000" />
+      <workItem from="1683626505071" duration="7465000" />
+      <workItem from="1683644053286" duration="5506000" />
+      <workItem from="1683717566177" duration="102000" />
+      <workItem from="1683718169170" duration="1912000" />
+      <workItem from="1683722238087" duration="125000" />
+      <workItem from="1683722558205" duration="1193000" />
+      <workItem from="1683724624889" duration="586000" />
+      <workItem from="1683725297117" duration="9000" />
+      <workItem from="1683727832289" duration="1000" />
+      <workItem from="1683727913808" duration="344000" />
+      <workItem from="1683807221389" duration="276000" />
+      <workItem from="1683811058262" duration="788000" />
+      <workItem from="1683824950102" duration="195000" />
+      <workItem from="1683860092993" duration="1733000" />
+      <workItem from="1683861947782" duration="147000" />
+      <workItem from="1683862243301" duration="50000" />
+      <workItem from="1683886130662" duration="1233000" />
+      <workItem from="1683894580393" duration="12000" />
+      <workItem from="1683895124460" duration="2000" />
+      <workItem from="1683965144184" duration="1269000" />
+      <workItem from="1683971827056" duration="66000" />
+      <workItem from="1683972004033" duration="31000" />
+      <workItem from="1684060241963" duration="18000" />
+      <workItem from="1684065748759" duration="460000" />
+      <workItem from="1684067076787" duration="36000" />
+      <workItem from="1684067227720" duration="640000" />
+      <workItem from="1684072723660" duration="30000" />
+      <workItem from="1684079219309" duration="9000" />
+      <workItem from="1684079249908" duration="1075000" />
+      <workItem from="1684083515475" duration="5000" />
+      <workItem from="1684208298008" duration="39000" />
+      <workItem from="1684208674115" duration="19000" />
+      <workItem from="1684323501322" duration="49000" />
+      <workItem from="1684477706051" duration="76000" />
+      <workItem from="1684477924490" duration="27000" />
+      <workItem from="1684484131687" duration="414000" />
+      <workItem from="1684485758244" duration="294000" />
+      <workItem from="1684486151184" duration="73000" />
+      <workItem from="1684502994736" duration="15000" />
+      <workItem from="1684504534389" duration="59000" />
+      <workItem from="1684556692572" duration="327000" />
+      <workItem from="1684557030121" duration="61000" />
+      <workItem from="1684557131333" duration="7000" />
+      <workItem from="1684557149912" duration="88000" />
+      <workItem from="1684643808109" duration="2738000" />
+      <workItem from="1684661623237" duration="16000" />
+      <workItem from="1686127914419" duration="2093000" />
+      <workItem from="1686134921456" duration="289000" />
+      <workItem from="1686135441195" duration="5999000" />
+      <workItem from="1686144500042" duration="1174000" />
+      <workItem from="1686146125741" duration="312000" />
+      <workItem from="1686211781323" duration="11000" />
+      <workItem from="1686730058983" duration="2894000" />
+      <workItem from="1686732982709" duration="801000" />
+      <workItem from="1686733861583" duration="59000" />
+      <workItem from="1686734019571" duration="6000" />
+      <workItem from="1686734225784" duration="752000" />
+      <workItem from="1686758540189" duration="799000" />
+      <workItem from="1686817244020" duration="1202000" />
+      <workItem from="1686821716193" duration="5000" />
+      <workItem from="1686831274385" duration="1244000" />
+      <workItem from="1686832909195" duration="10000" />
+      <workItem from="1686833807585" duration="350000" />
+      <workItem from="1686838468429" duration="140000" />
+      <workItem from="1686842157582" duration="10003000" />
+      <workItem from="1686855466362" duration="1000" />
+      <workItem from="1686855473401" duration="863000" />
+      <workItem from="1686856557009" duration="1037000" />
+      <workItem from="1686857614037" duration="35000" />
+      <workItem from="1686857658363" duration="66000" />
+      <workItem from="1686858548140" duration="501000" />
+      <workItem from="1686882394609" duration="2912000" />
+      <workItem from="1686886230389" duration="45000" />
+      <workItem from="1686890105069" duration="271000" />
+      <workItem from="1686892163023" duration="44000" />
+      <workItem from="1686903729037" duration="2566000" />
+      <workItem from="1686924054562" duration="140000" />
+      <workItem from="1686924203296" duration="314000" />
+      <workItem from="1687054858183" duration="5543000" />
+      <workItem from="1687065815369" duration="1003000" />
+      <workItem from="1687087550541" duration="610000" />
+      <workItem from="1687091295148" duration="606000" />
+      <workItem from="1687092136094" duration="664000" />
+      <workItem from="1687093570399" duration="588000" />
+      <workItem from="1687096059603" duration="1210000" />
+      <workItem from="1687100251152" duration="63000" />
+      <workItem from="1687100651395" duration="285000" />
+      <workItem from="1687101152050" duration="204000" />
+      <workItem from="1687103054056" duration="648000" />
+      <workItem from="1687106100021" duration="749000" />
+      <workItem from="1687106868969" duration="331000" />
+      <workItem from="1687107818839" duration="458000" />
+      <workItem from="1687108920953" duration="1448000" />
+      <workItem from="1687147541504" duration="49000" />
+      <workItem from="1687147608481" duration="5604000" />
+      <workItem from="1687153276847" duration="1355000" />
+      <workItem from="1687154658629" duration="233000" />
+      <workItem from="1687156438042" duration="97000" />
+      <workItem from="1687173393592" duration="184000" />
+      <workItem from="1687174152473" duration="5752000" />
+      <workItem from="1687182587527" duration="1778000" />
+      <workItem from="1687187615029" duration="1837000" />
+      <workItem from="1687189480213" duration="1567000" />
+      <workItem from="1687228193282" duration="3202000" />
+      <workItem from="1687235396045" duration="1566000" />
+      <workItem from="1687240314227" duration="3407000" />
+      <workItem from="1687252369379" duration="1569000" />
+      <workItem from="1687253974552" duration="1701000" />
+      <workItem from="1687279673821" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <dependency master-id="0" />
+          <properties class="java.net.SocketException" package="java.net" />
+          <option name="timeStamp" value="19" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Scenes/WaitPane.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
